@@ -1,0 +1,16 @@
+@import "../font/quicksand.css";
+body {
+  width: 1440px;
+  padding: 0;
+  margin: 0;
+  background-color: #F4F4F6;
+  font-family: "Quicksand";
+}
+
+.main {
+  padding-left: 150px;
+  padding-top: 145px;
+  padding-right: 150px;
+}
+
+/*# sourceMappingURL=cards.css.map */
